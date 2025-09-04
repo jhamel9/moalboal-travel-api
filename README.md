@@ -17,3 +17,28 @@ This API serves as a *virtual travel guide*, allowing users to fetch data on *at
 - Create a *functional API* that can be extended in the future.  
 
 ---
+
+## 🚀 Features
+- Attractions → List of top beaches, diving spots, and islands in Moalboal.  
+- Activities → Snorkeling, island hopping, canyoneering, and other adventures.  
+- Restaurants → Recommended food places, from budget eats to chill cafes.  
+- Travel Tips → Helpful advice on budget, transportation, and best seasons to visit.  
+- Dynamic JSON Responses → Each endpoint returns clean and structured JSON data.  
+
+---
+
+## 🛠️ Technology Stack
+- Backend Framework: Express.js (Node.js)  
+- Language: JavaScript  
+- Data Format: JSON  
+- Version Control: Git & GitHub (for collaboration and tracking)  
+- Testing Tool (Optional): Postman or curl  
+
+---
+
+## 📥 Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/moalboal-travel-api.git
+cd moalboal-travel-api

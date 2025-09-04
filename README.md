@@ -1,6 +1,6 @@
-# 🌴 Moalboal Travel API
+#  Moalboal Travel API
 
-## 📌 Description
+##  Description
 The *Moalboal Travel API* is a simple but unique API project that provides curated information about Moalboal, Cebu — one of the Philippines’ most famous travel destinations.  
 
 This API serves as a *virtual travel guide*, allowing users to fetch data on *attractions, activities, restaurants, and travel tips*. It is designed for:
@@ -10,7 +10,7 @@ This API serves as a *virtual travel guide*, allowing users to fetch data on *at
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Demonstrate understanding of *API concepts* (routes, endpoints, JSON format).  
 - Provide a *unique API feature* compared to other student groups.  
 - Showcase *GitHub collaboration* (branches, commits, pull requests).  
@@ -18,7 +18,7 @@ This API serves as a *virtual travel guide*, allowing users to fetch data on *at
 
 ---
 
-## 🚀 Features
+##  Features
 - Attractions → List of top beaches, diving spots, and islands in Moalboal.  
 - Activities → Snorkeling, island hopping, canyoneering, and other adventures.  
 - Restaurants → Recommended food places, from budget eats to chill cafes.  
@@ -27,7 +27,7 @@ This API serves as a *virtual travel guide*, allowing users to fetch data on *at
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - Backend Framework: Express.js (Node.js)  
 - Language: JavaScript  
 - Data Format: JSON  
@@ -36,7 +36,7 @@ This API serves as a *virtual travel guide*, allowing users to fetch data on *at
 
 ---
 
-## 📥 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
